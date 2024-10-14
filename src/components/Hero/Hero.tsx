@@ -9,6 +9,8 @@ const Hero = () =>{
     <p className={hero.p}>Discover amazing features and services to boost your<br/><span className={hero.span}> online presence.
         <br/> <button className={hero.btn}>Get Started</button></span></p>
        <img src="../../../images/herobg.PNG" className={hero.img}></img>
+       <img src="../../../images/logo2.PNG"></img>
+
 
    </div>
   )
