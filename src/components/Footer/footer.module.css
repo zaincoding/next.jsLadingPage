@@ -1,0 +1,17 @@
+
+.foot{
+   position: absolute;
+    background-color:rgb(42, 48, 48);
+     color:white;
+     width: 100%;
+     padding: 30px;
+     font-size: 20px;
+}
+
+.foot a{
+    position: relative;
+    padding: 20px;
+    float:right;
+    margin-top: -40px;
+    font-size: 2rem;
+}
